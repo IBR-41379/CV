@@ -1,0 +1,24 @@
+body
+{
+    background-color: #baf7ff;
+}
+hr
+{
+    border-style: dotted none none;
+    height: 0px;
+    width: 13%;
+    border-color: #256D85;
+    border-width: 15px;
+}
+h1
+{
+    color: #3E6D9C;
+}
+h3
+{
+    color: #3E6D9C;
+}
+.Zen
+{
+    border-radius: 100%;
+}
